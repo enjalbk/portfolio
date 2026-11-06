@@ -2,6 +2,10 @@
 
 A responsive, buildless portfolio inspired by the reference's cream, olive, and lime visual style. Includes Enjal's supplied portrait, education, contact links, and the reference's technical skill groups. Project and work-history claims are intentionally omitted until details are supplied.
 
+## Live portfolio
+
+[View the deployed portfolio](https://portfolio-phi-beige-85er5xdyxz.vercel.app/)
+
 ## Local preview
 
 Run `node server.mjs`, then visit http://127.0.0.1:4173. No dependencies or build step are required.
