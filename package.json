@@ -1,0 +1,11 @@
+{
+  "name": "enjal-bk-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Enjal BK's personal software engineering portfolio",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node --check dist/script.js && node --check server.mjs"
+  }
+}
